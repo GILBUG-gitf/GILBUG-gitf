@@ -126,6 +126,4 @@ GitHub : https://github.com/GILBUG-gitf
 
 ---
 
-<p align="center">
-⭐ Merci de visiter mon profil GitHub !
-</p>
+
