@@ -77,25 +77,7 @@ Agence spécialisée dans :
 
 ---
 
-## Domaines d'expertise
 
-✅ Développement Web
-
-✅ Développement Mobile Flutter
-
-✅ Bases de données
-
-✅ API REST
-
-✅ Transformation Digitale
-
-✅ Gestion de projets numériques
-
-✅ Éducation numérique
-
-✅ Administration de plateformes éducatives
-
----
 
 ##  Collaborations
 
@@ -115,7 +97,6 @@ Je suis ouvert aux collaborations sur :
 Email : gilbertgilbak12@gmail.com
 Site web : https://gilbakdigital.com
 LinkedIn : www.linkedin.com/in/konakan-gilbert-bananko-1b1606203
-
 GitHub : https://github.com/GILBUG-gitf
 
 ---
@@ -125,5 +106,7 @@ GitHub : https://github.com/GILBUG-gitf
 > "La technologie est plus utile lorsqu'elle permet aux autres de progresser."
 
 ---
-
+<p align="center">
+  <img src="https://media.tenor.com/xxxxxxxx.gif" width="400">
+</p>
 
