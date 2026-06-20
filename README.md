@@ -109,4 +109,4 @@ GitHub : https://github.com/GILBUG-gitf
 <p align="center">
   <img src="https://media.tenor.com/xxxxxxxx.gif" width="400">
 </p>
-
+<div class="tenor-gif-embed" data-postid="20009065" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/computer-thumbs-up-sin-chilling-zone-rodrigo-gif-20009065">Computer Thumbs Up GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
